@@ -1,3 +1,2 @@
 # Bitcow AMM Contracts
-
-The bitcow 
+bitSmiley has launched a BTC-native stablecoin AMM, bitCow, to enrich the usage scenarios of its native stablecoin, bitUSD. Leveraging innovations such as the dual LP token system, bitCow eliminates impermanent loss and streamlines the PnL management process for users. The upcoming V1 version will focus on introducing trading functionalities for Bitcoin-native stablecoins; the V2 version will concentrate on implementing more advanced automated concentrated liquidity AMM solutions to enhance the capital efficiency of Bitcoin-native assets.
